@@ -1,0 +1,14 @@
+.results {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 300px;
+}
+
+.result {
+    padding: 1rem;
+    max-width: 300px;
+    border: 1px solid black;
+    border-radius: 1rem;
+    margin: 1rem;
+}
+
